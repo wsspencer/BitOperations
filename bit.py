@@ -1,6 +1,6 @@
 #author: W. Scott Spencer
 
-#The purpose of this Python program is to take user input in the form of binary, hexadecimal,
+#The purpose of this simple Python program is to take user input in the form of binary, hexadecimal,
 #and decimal numbers (given the appropriate identifiers of 0x for hex and 0b for binary) and
 #to perform any of the following bit operations on them:  AND, OR, XOR, LS, RS, and ANDNOT.
 #input is read in the form:  0b1010 XOR 0xF
